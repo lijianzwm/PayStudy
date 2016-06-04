@@ -23,7 +23,7 @@ class PayService{
         $product['attach'] = "日行一善";
         $product['fee'] = "1";
 
-        return \WeChatPayService::QRCode();
+        return \WeChatPayService::QRCode($product);
     }
 
 
