@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+
+/Application/Common/Conf/config.php
+
+/ThinkPHP/Library/Vendor/WeChatPay/WxPay.Config.php
