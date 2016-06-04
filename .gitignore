@@ -4,4 +4,6 @@
 
 /Application/Common/Conf/config.php
 
+/Application/Runtime
+
 /ThinkPHP/Library/Vendor/WeChatPay/WxPay.Config.php
